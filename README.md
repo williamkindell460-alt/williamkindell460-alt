@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I’m William Kindell
+Embedded Systems & Robotics Engineer
+Missouri University of Science & Technology (ECE/CPE)
 
+## Engineering Focus
+- Embedded Systems (ESP32, STM32, FreeRTOS)
+- Real‑Time Systems
+- Digital Logic & Computer Architecture
+- Embedded Linux (Yocto, kernel modules)
+- C / C++ / Python
+- Hardware–software integration
+
+## Featured Projects
+**ESP32 Climate Monitoring System**
+Low‑power environmental telemetry system with CRC‑framed UART, SD logging, FreeRTOS multitasking, and high‑volume host‑side analysis tooling.
+Repo: https://github.com/williamkindell460-alt/Climate-Based-Monitoring-Device
 <!--
-**williamkindell460-alt/williamkindell460-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+STM32 Bare‑Metal Drivers
+GPIO, UART, I2C drivers built from scratch with full documentation.
+Repo: link
 
-Here are some ideas to get you started:
+FreeRTOS Sensor Node
+Real‑time scheduling, queues, timers, and reliability testing.
+Repo: link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Embedded Linux Mini‑Project
+Yocto image or kernel module (once completed).
+Repo: link
+
+## Engineering Blog
+I write about embedded systems and engineering lessons learned.
+Blog: 
 -->
+## Coursework
+- Digital Logic
+- Computer Organization
+- Calculus II/III
+- Differential Equations
+- Linear Algebra
+- Physics I/II
+## Contact
+- Portfolio: https://williamkindell460.wixsite.com/aboutme (This will change in the future, since I am unhappy with how it turned out)
+<!--
+- GitHub Pages Blog: link
+-->
+- LinkedIn: https://www.linkedin.com/in/williamkindell/
+- Email: williamkindell460@gmail.com
