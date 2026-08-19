@@ -39,7 +39,7 @@ Blog:
 - Linear Algebra
 - Physics I/II
 ## Contact
-- Portfolio: https://williamkindell460.wixsite.com/aboutme (This will change in the future, since I am unhappy with how it turned out)
+- Portfolio: https://williamkindell460.wixsite.com/aboutme (This will change in the future, since Wix is surprisingly limiting)
 <!--
 - GitHub Pages Blog: link
 -->
