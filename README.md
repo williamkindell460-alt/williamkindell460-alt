@@ -12,7 +12,7 @@ Missouri University of Science & Technology (ECE/CPE)
 
 ## Featured Projects
 **ESP32 Climate Monitoring System**
-Low‑power environmental telemetry system with CRC‑framed UART, SD logging, FreeRTOS multitasking, and high‑volume host‑side analysis tooling.
+Low‑power environmental telemetry system with SPI, I2C, SD logging, FreeRTOS multitasking, and high‑volume host‑side analysis tooling.
 Repo: https://github.com/williamkindell460-alt/Climate-Based-Monitoring-Device
 <!--
 STM32 Bare‑Metal Drivers
