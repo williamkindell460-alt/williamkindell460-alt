@@ -40,8 +40,5 @@ Blog:
 - Physics I/II
 ## Contact
 - Portfolio: https://williamkindell460-alt.github.io
-<!--
-- GitHub Pages Blog: link
--->
 - LinkedIn: https://www.linkedin.com/in/williamkindell/
 - Email: williamkindell460@gmail.com
