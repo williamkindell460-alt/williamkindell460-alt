@@ -1,6 +1,6 @@
 # Hi, I’m William Kindell
 Embedded Systems & Robotics Engineer
-Missouri University of Science & Technology (ECE/CPE)
+Missouri University of Science & Technology (EE/CPE)
 
 ## Engineering Focus
 - Embedded Systems (ESP32, STM32, FreeRTOS)
