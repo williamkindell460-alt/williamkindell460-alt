@@ -6,7 +6,7 @@ Missouri University of Science & Technology (EE/CPE)
 - Embedded Systems (ESP32, STM32, FreeRTOS)
 - Real‑Time Systems
 - Digital Logic & Computer Architecture
-- Embedded Linux (Yocto, kernel modules)
+<!--- Embedded Linux (Yocto, kernel modules)-->
 - C / C++ / Python
 - Hardware–software integration
 
